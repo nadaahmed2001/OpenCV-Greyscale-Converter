@@ -43,4 +43,8 @@ make
 
 - **Compiler Error**:
 - Issue: Unable to include `<opencv2/opencv.hpp>`.
-- Solution: Provided the full path to the header file manually, which resolved the issue.
+- Solution: Provided the full path to the header file manually, which resolved the issue
+
+  ## This is the input vs output images:
+
+![Screenshot 2024-01-02 115104](https://github.com/nadaahmed2001/OpenCV-Greyscale-Converter/assets/60941223/2400c202-31c4-4316-a3a1-26b58ad16e87)
